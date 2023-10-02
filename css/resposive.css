@@ -1,0 +1,17 @@
+@media(max-width: 415px) {
+    body {
+        background-image: url(../images/pattern-background-mobile.svg);
+    }
+
+    main {
+        margin: 0px 20px;
+    }
+
+    .informations {
+        padding: 15px;
+    }
+
+    .left {
+        gap: 10px;
+    }
+}
